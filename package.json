@@ -11,7 +11,7 @@
     "deploy": "gh-pages -d dist"
   },
   "private": true,
-  "homepage": "https://github.com/DanielSilva23/SamplelPage.git",
+  "homepage": "https://github.com/DanielSilva23/SamplelPage",
   "dependencies": {
     "@angular/animations": "~9.1.11",
     "@angular/cdk": "^9.2.4",
