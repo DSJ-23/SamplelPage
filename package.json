@@ -8,10 +8,10 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist/SamplePage"
   },
   "private": true,
-  "homepage": "https://github.com/DanielSilva23/SamplePage",
+  "homepage": "https://github.com/DanielSilva23/SamplelPage",
   "dependencies": {
     "@angular/animations": "~9.1.11",
     "@angular/cdk": "^9.2.4",
