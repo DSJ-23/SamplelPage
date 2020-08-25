@@ -1,3 +1,16 @@
 p{
   margin: 5%;
 }
+
+table {
+  margin-top: 8%;
+  margin-left: 5%;
+  width: 80%;
+}
+
+th, td {
+  margin-left: 5%;
+}
+
+
+
