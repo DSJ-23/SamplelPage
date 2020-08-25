@@ -24,11 +24,15 @@ export class FirstComponent implements OnInit {
 
     this.Backend.getAll().subscribe((data: any) => {
       this.player_data = data;
-      console.log(data);
       this.dataSource = new MatTableDataSource(this.player_data)
       this.b_done = true;
     })
 
+  }
+
+  player_drafted(identification): void {
+    // this.player_data = this.player_data.filter(player => player.id == player.identification);th
+    this.player_data = this.player_data.filter((player: any) => player.id != identification)
   }
 
 }
