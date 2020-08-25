@@ -12,6 +12,15 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
+To build in and put all the files into the docs folder where it is actually deployed 
+
+```
+ng build --prod --output-path docs --base-href SamplePage
+```
+
+
+
+
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 ## Running unit tests
