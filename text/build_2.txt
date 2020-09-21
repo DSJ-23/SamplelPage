@@ -1,0 +1,41 @@
+  179  docker build -t node_docker .
+  181  docker build -t node_docker .
+  183  docker build -t node_docker .
+  186  docker build -t node_docker .
+  307  docker build -t node_docker .
+  372  docker build -t second_timer .
+  695  docker-compose up --build
+  696  docker-compose up --build -d
+  699  git commit -m "add route and re-build"
+  754  docker-compose up -d --build
+  761  docker-compose up --build
+  763  docker-compose up --build
+  874  docker-compose up --build
+  890  docker-compose up --build
+  917  npm run build
+ 1047  npm run build
+ 1057  npm run build
+ 1061  ng build --prod --output-path docs --base-href SamplePage
+ 1064  git commit -m "build in docs folder"
+ 1983  docker build -t dockerpython .
+ 1986  docker build -t dockerpython .
+ 1998  docker build -t a_flask_python
+ 1999  docker build -t a_flask_python .
+ 2002  docker build -t a_flask_python .
+ 2005  docker build -t a_flask_python .
+ 2078  history | grep "build" > build.txt
+ 2079  code build.txt
+ 2098  ng build --prod --output-path docss --base-href SamplePage
+ 2112  mv build.txt text/build.txt
+ 2116  code text/build.txt
+ 2181  git branch build
+ 2182  git switch build
+ 2184  ng build --prod --build-optimizer --baseHref=”/static/”
+ 2196  ng build --prod --build-optimizer --baseHref=”/static/”
+ 2213  history | grep "build" > text/build_2.txt
+ 2215  code text/build_2.txt
+ 2217  ng build --prod --build-optimizer --baseHref=”/static/”
+ 2300  git commmit -m "build with href"
+ 2355  git switch build
+ 2365  history | grep "build"
+ 2371  history | grep "build"
