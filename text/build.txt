@@ -1,0 +1,25 @@
+  179  docker build -t node_docker .
+  181  docker build -t node_docker .
+  183  docker build -t node_docker .
+  186  docker build -t node_docker .
+  307  docker build -t node_docker .
+  372  docker build -t second_timer .
+  695  docker-compose up --build
+  696  docker-compose up --build -d
+  699  git commit -m "add route and re-build"
+  754  docker-compose up -d --build
+  761  docker-compose up --build
+  763  docker-compose up --build
+  874  docker-compose up --build
+  890  docker-compose up --build
+  917  npm run build
+ 1047  npm run build
+ 1057  npm run build
+ 1061  ng build --prod --output-path docs --base-href SamplePage
+ 1064  git commit -m "build in docs folder"
+ 1983  docker build -t dockerpython .
+ 1986  docker build -t dockerpython .
+ 1998  docker build -t a_flask_python
+ 1999  docker build -t a_flask_python .
+ 2002  docker build -t a_flask_python .
+ 2005  docker build -t a_flask_python .
