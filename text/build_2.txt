@@ -39,3 +39,5 @@
  2355  git switch build
  2365  history | grep "build"
  2371  history | grep "build"
+
+ _aflaskf
